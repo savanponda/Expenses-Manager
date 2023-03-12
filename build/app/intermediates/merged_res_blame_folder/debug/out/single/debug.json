@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/drawable_logo_512.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/drawable/logo_512.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-mdpi_logo_512_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-mdpi/logo_512_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_logo_1024.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxxhdpi/logo_1024.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_logo_512.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxhdpi/logo_512.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-mdpi_logo_1024_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-mdpi/logo_1024_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/drawable-v21_launch_background.xml.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xhdpi_logo_512_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xhdpi/logo_512_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-mdpi_logo_1024.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-mdpi/logo_1024.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_logo_512_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxxhdpi/logo_512_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-hdpi_logo_512.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-hdpi/logo_512.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/drawable_logo_512_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/drawable/logo_512_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xhdpi_logo_1024.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xhdpi/logo_1024.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_logo_512_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxhdpi/logo_512_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/drawable_logo_1024.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/drawable/logo_1024.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_logo_1024_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxxhdpi/logo_1024_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-hdpi_logo_1024.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-hdpi/logo_1024.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xhdpi_logo_512.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xhdpi/logo_512.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-mdpi_logo_512.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-mdpi/logo_512.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_logo_512.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxxhdpi/logo_512.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-hdpi_logo_1024_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-hdpi/logo_1024_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-hdpi_logo_512_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-hdpi/logo_512_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/drawable_logo_1024_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/drawable/logo_1024_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_logo_1024_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxhdpi/logo_1024_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_logo_1024.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxhdpi/logo_1024.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xhdpi_logo_1024_bg.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xhdpi/logo_1024_bg.png"
+    },
+    {
+        "merged": "/home/user/github/Expense-Manager/build/app/intermediates/merged_res/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/user/github/Expense-Manager/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    }
+]
